@@ -12,11 +12,11 @@
 <br>
 
 🎯 Mission: Making Cool Stuff 🎯
-<br>From college to real world, I make sleek software!
+<br>From college to real world !
 <br>
 
 💡 Lots of Interests, One Goal 💡
-<br>Web, AI, you name it—I'm all about making things awesome!
+<br>Web, AI, etc...
 
 ---
 
