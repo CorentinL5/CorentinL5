@@ -2,7 +2,7 @@
 
 <h1> <img src="assets/flags/flag-belgium.svg" width="25em"> Lallement Corentin </h1>
 
----
+
 
 <h2>🔭 About Me</h2>
 
