@@ -1,91 +1,33 @@
-<h1 align="center"> <img src="assets/flags/flag-belgium.svg" width="25em"> Lallement Corentin </h1>
+<div align="center">
+
+<h1> <img src="assets/flags/flag-belgium.svg" width="25em"> Lallement Corentin </h1>
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2>🔭 About Me</h2>
 
-- Tech-Enthusiast Student & Coding Enthusiast:
-  - As a dedicated student with a passion for technology and programming,
-  - I'm constantly seeking opportunities to learn and innovate.
 
-- Mission: Crafting Elegant Solutions as a Student:
-  - With my eyes set on academia and beyond,
-  - I'm committed to developing sleek and efficient software solutions to real-world problems.
+🚀 Tech Lover & Coding Fanatic 🚀
+<br>Always learning, always coding!
+<br>
 
-- Diverse Interests, Singular Focus on Learning:
-  - Embracing a broad spectrum of interests,
-  - From web development to AI and automation,
-  - I'm channeling my curiosity into specialized expertise for impactful outcomes.
+🎯 Mission: Making Cool Stuff 🎯
+<br>From college to real world, I make sleek software!
+<br>
+
+💡 Lots of Interests, One Goal 💡
+<br>Web, AI, you name it—I'm all about making things awesome!
 
 ---
 
-<h3 align="center">Skills</h3>
 
-<div align="center" id="skills">
-  <div style="width: 5.5rem; border-radius: 8px; padding: 20px; margin: 20px; display: inline-block;">
-  <img style="margin-right: 0.5rem; width: 4rem;" src="assets/icons/html5.svg" width="25em">
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-  </div>
-</div>
+<h3>Skills</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,arduino" />
 
-<div style="width: 5.5rem; border-radius: 8px; padding: 20px; margin: 20px;">
-  <img style="margin-right: 0.5rem; width: 4rem;" src="assets/icons/css3.svg" width="25em">
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-  </div>
-</div>
+---
+<h3>Languages</h3>
+<img src="assets/flags/flag-france.svg" alt="flag of france" width=50em>
+<img src="assets/flags/flag-netherlands.svg" alt="flag of netherlands" width=50em>
+<img src="assets/flags/flag-united-kingdom.svg" alt="flag of united kingdom" width=50em>
 
-<div style="width: 5.5rem; border-radius: 8px; padding: 20px; margin: 20px;">
-  <img style="margin-right: 0.5rem; width: 4rem;" src="assets/icons/javascript.svg" width="25em">
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-  </div>
 </div>
-
-<div style="width: 5.5rem; border-radius: 8px; padding: 20px; margin: 20px;">
-  <img style="margin-right: 0.5rem; width: 4rem;" src="assets/icons/php.svg" width="25em">
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-  </div>
-</div>
-
-<div style="width: 5.5rem; border-radius: 8px; padding: 20px; margin: 20px;">
-  <img style="margin-right: 0.5rem; width: 4rem;" src="assets/icons/python.svg" width="25em">
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-  </div>
-</div>
-
-<div style="width: 5.5rem; border-radius: 8px; padding: 20px; margin: 20px;">
-  <img style="margin-right: 0.5rem; width: 4rem;" src="assets/icons/arduino.svg" width="25em">
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-solid.svg" width="10em">
-    <img src="assets/stars/star-regular.svg" width="10em">
-  </div>
-</div>
-</div>
-
