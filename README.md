@@ -6,7 +6,7 @@
 	<img src="https://img.shields.io/badge/single-FF0000.svg" alt="single">
 </p>
 
-<h1> Lallement Corentin <i><sub>CorentinL5</sub></i></h1>
+<h1> Lallement Corentin <br><code><i>< CorentinL5 /></i></code></h1>
 
 <h2>🔭 A Guy From Belgium <img src="assets/flags/flag-belgium.svg" width="25em"> </h2>
 
@@ -36,11 +36,10 @@
 		</li>
 		<li>
 			<img src="https://img.shields.io/badge/Tarumo-FF4060.svg" alt="Tarumo">
-			<img src="https://img.shields.io/badge/Or-5B5B5B.svg" alt="OR">
+			<img src="https://img.shields.io/badge//-5B5B5B.svg" alt="slash meaning and">
 			<img src="https://img.shields.io/badge/CorentinL5-1DA1F2.svg" alt="CorentinL5">
 		</li>
-		<li><img src="https://img.shields.io/badge/age-18-F4A7E9.svg" alt="18"></li>
-		<li><img src="https://img.shields.io/badge/country-Belgium-FF4500.svg" alt="Belgium"></li>
+		<li><img src="https://img.shields.io/badge/Age-18-F4A7E9.svg" alt="18"></li>
 	</ul>
 	<img src="https://github-readme-stats.vercel.app/api?username=CorentinL5&show_icons=true" alt="CorentinL5's Github stats">
 </details>
