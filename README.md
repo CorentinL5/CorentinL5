@@ -1,20 +1,18 @@
-<div align="center">
-
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=corentinl5&label=Profile%20views&color=d1af52&style=flat" alt="corentinl5" />
 	<img src="https://img.shields.io/badge/male-1DA1F2.svg" alt="male">
-	<img src="https://img.shields.io/badge/single-FF0000.svg" alt="single">
+	<img src="https://img.shields.io/badge/single-FF4444.svg" alt="single">
 </p>
+	
+<h1 align="center"> Lallement Corentin <br><code><i>< CorentinL5 /></i></code></h1>
 
-<h1> Lallement Corentin <br><code><i>< CorentinL5 /></i></code></h1>
-
-<h2>🔭 A Guy From Belgium <img src="assets/flags/flag-belgium.svg" width="25em"> </h2>
+<h2 align="center"> 🔭 A Guy From Belgium <img src="assets/flags/flag-belgium.svg" width="25em"> </h2>
 
 <img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <div align="left">
 	<h3>📜 About Me</h3>
 	<ul type="none">
-		<li>🔭 I’m currently working on <a href="https://github.com/CorentinL5/WebSite-project-DevWEB-HEHB1Q2">WebSite-project-DevWEB-HEHB1Q2</a></li>
+		<li>🔭 I’m currently working on <a href="https://github.com/CorentinL5/PyThonBotproject">WebSite-project-DevWEB-HEHB1Q2</a></li>
 		<li>🌱 I’m currently learning <strong>UML, Python, HTML, CSS, Telecom</strong></li>
 		<li>📫 How to reach me <strong>corentinlallement5+contact-github@gmail.com</strong></li>
 		<li>⚡ Fun fact <strong>First, solve the problem. Then, write the code.</strong></li>
@@ -23,29 +21,31 @@
 
 <hr>
 
-<details>
-	<summary>Want to know more about me? 🤔</summary>
-	<br>
-	<ul type="none">
-		<li>
-			<a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white" alt="tarumo"></a>
-			<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white" alt="tarumo2246"></a>
-			<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white" alt="Corentinlal"></a>
-			<a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white" alt="tarumo_"></a>
-			<a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-181717.svg?&logo=GitHub&logoColor=white" alt="Corentin L5"></a>
-		</li>
-		<li>
-			<img src="https://img.shields.io/badge/Tarumo-FF4060.svg" alt="Tarumo">
-			<img src="https://img.shields.io/badge//-5B5B5B.svg" alt="slash meaning and">
-			<img src="https://img.shields.io/badge/CorentinL5-1DA1F2.svg" alt="CorentinL5">
-		</li>
-		<li><img src="https://img.shields.io/badge/Age-18-F4A7E9.svg" alt="18"></li>
-	</ul>
-	<img src="https://github-readme-stats.vercel.app/api?username=CorentinL5&show_icons=true" alt="CorentinL5's Github stats">
-</details>
+<h3>🤔 Want to know more about me?</h3>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CorentinL5&show_icons=true" alt="CorentinL5's Github stats">
+<ul type="none">
+	<li>
+		<br> <a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white" alt="tarumo"></a>
+		<br> <a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white" alt="tarumo2246"></a>
+		<br> <a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white" alt="Corentinlal"></a>
+		<br> <a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white" alt="tarumo_"></a>
+		<br> <a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-181717.svg?&logo=GitHub&logoColor=white" alt="Corentin L5"></a>
+	</li>
+	<li>
+		<br>
+	</li> 
+	<li>
+		<img src="https://img.shields.io/badge/Tarumo-FF4060.svg" alt="Tarumo">
+		<img src="https://img.shields.io/badge//-5B5B5B.svg" alt="slash meaning and">
+		<img src="https://img.shields.io/badge/CorentinL5-1DA1F2.svg" alt="CorentinL5">
+	</li>
+	<li><img src="https://img.shields.io/badge/Age-18-F4A7E9.svg" alt="18"></li>
+</ul>
+
 
 <hr>
-
+<div  align="center">
 <h3>Skills</h3>
 <h4>Web Development</h4>
 <img src="assets/skills/html-5.svg" alt="HTML5" width="40em">
@@ -82,6 +82,6 @@
 
 <br><br>
 
-<h6>© 2024 Corentin LALLEMENT <br>
-</h6>
+<h6>© 2024 Corentin LALLEMENT</h6>
 </div>
+
