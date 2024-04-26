@@ -3,7 +3,8 @@
 	<img src="https://img.shields.io/badge/male-1DA1F2.svg" alt="male">
 	<img src="https://img.shields.io/badge/single-FF4444.svg" alt="single">
 </p>
-	
+
+</a>
 <h1 align="center"> Lallement Corentin <br><code><i>< CorentinL5 /></i></code></h1>
 
 <h2 align="center"> 🔭 A Guy From Belgium <img src="assets/flags/flag-belgium.svg" width="25em"> </h2>
@@ -12,7 +13,7 @@
 <div align="left">
 	<h3>📜 About Me</h3>
 	<ul type="none">
-		<li>🔭 I’m currently working on <a href="https://github.com/CorentinL5/PyThonBotproject">WebSite-project-DevWEB-HEHB1Q2</a></li>
+		<li>🔭 I’m currently working on <a href="https://github.com/CorentinL5/PyThonBotproject">PyThonBotproject</a></li>
 		<li>🌱 I’m currently learning <strong>UML, Python, HTML, CSS, Telecom</strong></li>
 		<li>📫 How to reach me <strong>corentinlallement5+contact-github@gmail.com</strong></li>
 		<li>⚡ Fun fact <strong>First, solve the problem. Then, write the code.</strong></li>
