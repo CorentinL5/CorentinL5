@@ -46,12 +46,12 @@
 	<li><img src="https://img.shields.io/badge/Age-18-F4A7E9.svg?style=for-the-badge" alt="18 years"></li>
 </ul>
 
-## Github Stats
+## 📊 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinL5&hide_border=true&layout=compact&theme=transparent" height="150px">
 <img src="https://github-readme-stats.vercel.app/api?username=CorentinL5&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="150px">
 
 
-## Skills
+## 🏆 Skills
 <div  align="center">
 	<table>
 		<tr>
