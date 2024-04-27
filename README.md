@@ -53,73 +53,182 @@
 
 ## 🏆 Skills
 <div  align="center">
-	<table>
-		<tr>
-			<th valign="top" width="33.33%">Web Development</th>
-			<th valign="top" width="33.33%">Programming Languages</th>
-			<th valign="top" width="33.33%">Mores</th>
-		</tr>
-		<tr>
-			<td>
-				<div align="center">
-					<img src="assets/skills/html-5.svg" alt="HTML5" width="40em">
-					<img src="assets/skills/css-3.svg" alt="CSS3" width="40em">
-					<img src="assets/skills/javascript.svg" alt="JavaScript" width="40em">
-					<img src="assets/skills/php.svg" alt="PHP" width="40em">
-				</div>
-			</td>
-			<td>
-				<div align="center">
-					<img src="assets/skills/python.svg" alt="Python" width="40em">
-					<img src="assets/skills/skript.svg" alt="Skript Minecraft" width="40em">
-				</div>
-			</td>
-			<td>
-				<div align="center">
-				<img src="assets/skills/arduino.svg" alt="Arduino" width="40em">
-				<img src="assets/skills/git.svg" alt="Git" width="40em">
-			</div>
-			</td>    
-		</tr>
-	</table>
-	<table>
-		<tr>
-			<th valign="top" width="50%">My Editors</th>
-			<th valign="top" width="50%">Languages</th>
-		</tr>
-		<tr>
-			<td>
-				<div align="center">
-					<img src="assets/editors/sublime-text.svg" alt="Sublime Text" width="40em">
-					<img src="assets/editors/jb-pycharm.svg" alt="Jet-Brains Pycharm" width="40em">
-					<img src="assets/editors/vs-code.svg" alt="Visual Studio Code" width="40em">
-				</div>
-			</td>
-			<td>
-				<div align="center">
-					<img src="assets/flags/lang-fr.svg" alt="flag of france" width=40em>
-					<img src="assets/flags/lang-nl.svg" alt="flag of netherlands" width=40em>
-					<img src="assets/flags/lang-en.svg" alt="flag of united kingdom" width=40em>
-				</div>
-			</td>	
-		</tr>
-	</table>
-	<hr>
-	<div>
-		<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ortz4nan36ldsywwgzwnvp6c5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=53b14a" />
-	</div>  
-	<br>
-	<div>
-		<a href="https://www.buymeacoffee.com/corentinl5">
-			<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="corentinl5" />
-		</a>
-	</div>
-	<br><br>
-	<h6>© 2024 Corentin LALLEMENT</h6>
 
+<table>
+    <thead>
+        <tr >
+            <th width="20%"></th>
+            <th width="40%">Languages</th>
+            <th width="40%">Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+			</td>
+            <td align="center">
+				<img src="assets/skills/html-5.svg" width="35em" alt="HTML">
+				<img src="assets/skills/css-3.svg" width="35em" alt="CSS">
+				<img src="assets/skills/skript.svg" width="35em" alt="SKRIPT">
+				<img src="assets/skills/markdown.svg" width="35em" alt="MARKDOWN">
+			</td>
+            <td align="center">
+				<img src="assets/skills/git.svg" width="35em" alt="GIT">
+			</td>
+        </tr>
+        <tr>
+            <td>
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+			</td>
+            <td align="center">
+				<img src="assets/skills/python.svg" width="35em" alt="PYTHON">
+			</td>
+            <td align="center">
+				<img src="assets/skills/heroku.svg" width="35em" alt="HEROKU">
+				<img src="assets/skills/glitch.svg" width="35em" alt="GLITCH">
+				<img src="assets/skills/arduino.svg" width="35em" alt="ARDUINO">
+			</td>
+        </tr>
+        <tr>
+            <td>
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+			</td>
+            <td align="center">
+			</td>
+            <td align="center">
+				<img src="assets/skills/canva.svg" width="35em" alt="CANVA">
+				<img src="assets/skills/cisco.svg" width="35em" alt="CISCO">
+				<img src="assets/skills/raspberry-pi.svg" width="35em" alt="RASPBERRY-PI">
+				<img src="assets/skills/xampp.svg" width="35em" alt="XAMPP">
+			</td>
+        </tr>
+        <tr>
+            <td>
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+			</td>
+            <td align="center">
+				<img src="assets/skills/javascript.svg" width="35em" alt="JS">
+			</td>
+            <td align="center">
+				<img src="assets/skills/ovh.svg" width="35em" alt="OVH">
+				<img src="assets/skills/mysql.svg" width="35em" alt="MYSQL">
+				<img src="assets/skills/figma.svg" width="35em" alt="FIGMA">
+				<img src="assets/skills/opensea.svg" width="35em" alt="OPENSEA">
+			</td>
+        </tr>
+        <tr>
+            <td>
+				<img src="assets/stars/stary.svg" width="15em" alt="star yes">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+			</td>
+            <td align="center">
+				<img src="assets/skills/php.svg" width="35em" alt="PHP">
+			</td>
+            <td align="center">
+				<img src="assets/skills/terminal.svg" width="35em" alt="CMD TERMINAL">
+				<img src="assets/skills/powershell.svg" width="35em" alt="POWERSHELL">
+				<img src="assets/skills/wordpress.svg" width="35em" alt="WORDPRESS">
+				<img src="assets/skills/adobe.svg" width="35em" alt="ADOBE">
+				<img src="assets/skills/gimp.svg" width="35em" alt="GIMP">
+				<img src="assets/skills/notion.svg" width="35em" alt="NOTION">
+				<img src="assets/skills/tor.svg" width="35em" alt="TOR">
+				<img src="assets/skills/apache.svg" width="35em" alt="APACHE">
+			</td>
+        </tr>
+        <tr>
+            <td>
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<img src="assets/stars/starn.svg" width="15em" alt="star no">
+				<sup>*</sup>
+			</td>
+            <td align="center">
+				<img src="assets/skills/c.svg" width="35em" alt="C">
+				<img src="assets/skills/c-plusplus.svg" width="35em" alt="C++">
+				<img src="assets/skills/c-sharp.svg" width="35em" alt="C#">
+				<img src="assets/skills/java.svg" width="35em" alt="JAVA">
+				<img src="assets/skills/typescript.svg" width="35em" alt="TYPESCRIPT">
+				<img src="assets/skills/kotlin.svg" width="35em" alt="KOTLIN">
+			</td>
+            <td align="center">
+				<img src="assets/skills/aws.svg" width="35em" alt="AWS">
+				<img src="assets/skills/cloudflare.svg" width="35em" alt="CLOUDFLARE">
+				<img src="assets/skills/bootstrap.svg" width="35em" alt="BOOTSTRAP">
+				<img src="assets/skills/jquery.svg" width="35em" alt="JQUERY">
+				<img src="assets/skills/nodejs.svg" width="35em" alt="NODE.JS">
+				<img src="assets/skills/mariadb.svg" width="35em" alt="MARIADB">
+				<img src="assets/skills/mongodb.svg" width="35em" alt="MONGODB">
+				<img src="assets/skills/storybook.svg" width="35em" alt="STORYBOOK">
+				<img src="assets/skills/zigbee.svg" width="35em" alt="ZIGBEE">
+				<img src="assets/skills/nginx.svg" width="35em" alt="NGINX"></td>
+        </tr>
+    </tbody>
+</table>
+<h6 align="right">* Knew but never used...</h6>
+
+<table>
+	<tr>
+		<th width="50%">My Editors</th>
+		<th width="50%">Languages</th>
+	</tr>
+	<tr>
+		<td align="center">
+			<img src="assets/editors/vs-code.svg" alt="Visual Studio Code" width="40em">
+			<img src="assets/editors/jb-pycharm.svg" alt="Jet-Brains Pycharm" width="40em">
+			<img src="assets/editors/sublime-text.svg" alt="Sublime Text" width="40em">
+		</td>
+		<td align="center">
+			<img src="assets/flags/lang-fr.svg" alt="flag of france" width=40em>
+			<img src="assets/flags/lang-nl.svg" alt="flag of netherlands" width=40em>
+			<img src="assets/flags/lang-en.svg" alt="flag of united kingdom" width=40em>
+		</td>	
+	</tr>
+</table>
+<hr>
+
+<div>
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ortz4nan36ldsywwgzwnvp6c5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14a" alt="Current spotify listening">
 </div>
 
 <br>
 
+<div>
+	<a href="https://www.buymeacoffee.com/corentinl5">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="buy me a coffee, corentinl5" />
+	</a>
+</div>
+
+<br><br><br>
+
+<h5>© 2024 Corentin LALLEMENT</h5>
+
+</div>
+
+<br><br>
+
 <a href="https://wakatime.com/badge/user/579bed4b-39bc-4178-85cd-cca984453d63/project/018e7719-8a6b-48c3-8d8b-8581fc3eda3f"><img align="right" src="https://wakatime.com/badge/user/579bed4b-39bc-4178-85cd-cca984453d63/project/018e7719-8a6b-48c3-8d8b-8581fc3eda3f.svg" alt="wakatime">
 </a>
+
+<hr>
