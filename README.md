@@ -28,18 +28,19 @@
 ## 🤔 Want to know more about me?
 <ul type="none">
 	<li>
+		<a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-C5D1DE.svg?&logo=GitHub&logoColor=black&style=for-the-badge" alt="Corentin L5"></a>
+		<a href="https://discord.gg/7GmWpkNuMV"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&logo=Discord&logoColor=white&style=for-the-badge" alt="Corentin L5"></a>
 		<a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge" alt="tarumo"></a>
-		<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white&style=for-the-badge" alt="tarumo2246"></a>
-		<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white&style=for-the-badge" alt="Corentinlal"></a>
 		<a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white&style=for-the-badge" alt="tarumo_"></a>
-		<a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-181717.svg?&logo=GitHub&logoColor=white&style=for-the-badge" alt="Corentin L5"></a>
+		<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white&style=for-the-badge" alt="Corentinlal"></a>
+		<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white&style=for-the-badge" alt="tarumo2246"></a>
 	</li>
 	<li>
 		<br>
 	</li>
 	<li>
 		<img src="https://img.shields.io/badge/Tarumo-FF4060.svg?style=for-the-badge" alt="Tarumo">
-		<img src="https://img.shields.io/badge//-5B5B5B.svg?style=for-the-badge" alt="slash meaning and">
+		<img src="https://img.shields.io/badge//-555555.svg?style=for-the-badge" alt="slash meaning and">
 		<img src="https://img.shields.io/badge/CorentinL5-1DA1F2.svg?style=for-the-badge" alt="CorentinL5">
 	</li>
 	<li><img src="https://img.shields.io/badge/Age-18-F4A7E9.svg?style=for-the-badge" alt="18 years"></li>
