@@ -3,12 +3,14 @@
 	<img src="https://komarev.com/ghpvc/?username=corentinl5&label=Profile%20views&color=d1af52&style=for-the-badge" alt="corentinl5's profil views" />
 	<img src="https://img.shields.io/badge/male-1DA1F2.svg?style=for-the-badge" alt="male">
 	<img src="https://img.shields.io/badge/single-FF4444.svg?style=for-the-badge" alt="single">
+	<img src="https://img.shields.io/badge/18y-F4A7E9.svg?style=for-the-badge" alt="18 years">
 </p>
 
 <div align="center">
 	<h1> 
 		Lallement Corentin 
-		<br><code><i>< CorentinL5 /></i></code>
+		<br><code><i><span><</span></span>CorentinL5</span><span>/></span></i></code>
+		<br><code><i><span><</span></span>Tarumo</span><span>/></span></i></code>
 	</h1>
 	<p> 
 		🔭 A Guy From Belgium 
@@ -25,26 +27,15 @@
 - ⚡ Fun fact **First, solve the problem. Then, write the code**
 
 
-## 🤔 Want to know more about me?
-<ul type="none">
-	<li>
-		<a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-C5D1DE.svg?&logo=GitHub&logoColor=black&style=for-the-badge" alt="Corentin L5"></a>
-		<a href="https://discord.gg/7GmWpkNuMV"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&logo=Discord&logoColor=white&style=for-the-badge" alt="Corentin L5"></a>
-		<a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge" alt="tarumo"></a>
-		<a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white&style=for-the-badge" alt="tarumo_"></a>
-		<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white&style=for-the-badge" alt="Corentinlal"></a>
-		<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white&style=for-the-badge" alt="tarumo2246"></a>
-	</li>
-	<li>
-		<br>
-	</li>
-	<li>
-		<img src="https://img.shields.io/badge/Tarumo-FF4060.svg?style=for-the-badge" alt="Tarumo">
-		<img src="https://img.shields.io/badge//-555555.svg?style=for-the-badge" alt="slash meaning and">
-		<img src="https://img.shields.io/badge/CorentinL5-1DA1F2.svg?style=for-the-badge" alt="CorentinL5">
-	</li>
-	<li><img src="https://img.shields.io/badge/Age-18-F4A7E9.svg?style=for-the-badge" alt="18 years"></li>
-</ul>
+## 🌐 Socials
+
+<a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-C5D1DE.svg?&logo=GitHub&logoColor=black&style=for-the-badge" alt="Corentin L5"></a>
+<a href="https://discord.gg/7GmWpkNuMV"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&logo=Discord&logoColor=white&style=for-the-badge" alt="Corentin L5"></a>
+<a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge" alt="tarumo"></a>
+<a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white&style=for-the-badge" alt="tarumo_"></a>
+<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white&style=for-the-badge" alt="Corentinlal"></a>
+<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white&style=for-the-badge" alt="tarumo2246"></a>
+
 
 ## 📊 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinL5&hide_border=true&layout=compact&theme=transparent" height="150px">
@@ -124,7 +115,7 @@
 				<img src="assets/stars/starn.svg" width="15em" alt="star no">
 			</td>
             <td align="center">
-				<img src="assets/skills/javascript.svg" width="35em" alt="JS">
+				<img src="assets/skills/javascript.svg" width="35em" alt="JAVASCRIPT">
 			</td>
             <td align="center">
 				<img src="assets/skills/ovh.svg" width="35em" alt="OVH">
@@ -186,7 +177,7 @@
         </tr>
     </tbody>
 </table>
-<h6 align="right">* Knew but never used...</h6>
+<h6 align="right">* Known but never used...</h6>
 
 <table>
 	<tr>
