@@ -1,3 +1,6 @@
+<img src="assets/banner.svg" width="100%">
+<br>
+
 <img align="left" src="assets/flags/belgium.svg" width="35em">
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=corentinl5&label=Profile%20views&color=d1af52&style=for-the-badge" alt="corentinl5's profil views" />
@@ -104,6 +107,7 @@
 				<img src="assets/skills/cisco.svg" width="35em" alt="CISCO">
 				<img src="assets/skills/raspberry-pi.svg" width="35em" alt="RASPBERRY-PI">
 				<img src="assets/skills/xampp.svg" width="35em" alt="XAMPP">
+				<img src="assets/skills/multisim.svg" width="35em" alt="XAMPP">
 			</td>
         </tr>
         <tr>
