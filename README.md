@@ -73,6 +73,7 @@
 			</td>
             <td align="center">
 				<img src="assets/skills/git.svg" width="35em" alt="GIT">
+				<img src="assets/skills/github.svg" width="35em" alt="GITHUB">
 			</td>
         </tr>
         <tr>
