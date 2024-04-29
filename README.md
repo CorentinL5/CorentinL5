@@ -120,6 +120,7 @@
 			</td>
             <td align="center">
 				<img src="assets/skills/javascript.svg" width="35em" alt="JAVASCRIPT">
+				<img src="assets/skills/rust.svg" width="35em" alt="RUST">
 			</td>
             <td align="center">
 				<img src="assets/skills/ovh.svg" width="35em" alt="OVH">
