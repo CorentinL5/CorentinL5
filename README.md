@@ -195,6 +195,7 @@
 			<img src="assets/editors/vs-code.svg" alt="VISUAL STUDIO CODE" width="40em">
 			<img src="assets/editors/jb-pycharm.svg" alt="PYCHARM" width="40em">
 			<img src="assets/editors/jb-webstorm.svg" alt="WEBSTORM" width="40em">
+			<img src="assets/editors/jb-webstorm.svg" alt="WEBSTORM" width="40em">
 			<img src="assets/editors/sublime-text.svg" alt="SUBLIME TEXT" width="40em">
 		</td>
 		<td align="center">
