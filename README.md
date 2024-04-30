@@ -32,12 +32,12 @@
 
 ## 🌐 Socials
 
-<a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-C5D1DE.svg?&logo=GitHub&logoColor=black&style=for-the-badge" alt="Corentin L5"></a>
-<a href="https://discord.gg/7GmWpkNuMV"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&logo=Discord&logoColor=white&style=for-the-badge" alt="Corentin L5"></a>
-<a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge" alt="tarumo"></a>
-<a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white&style=for-the-badge" alt="tarumo_"></a>
-<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white&style=for-the-badge" alt="Corentinlal"></a>
-<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white&style=for-the-badge" alt="tarumo2246"></a>
+<a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-C5D1DE.svg?&logo=GitHub&logoColor=black&style=for-the-badge" alt="Github: Corentin L5"></a>
+<a href="https://discord.gg/7GmWpkNuMV"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&logo=Discord&logoColor=white&style=for-the-badge" alt="Discord code: 7GmWpkNuMV"></a>
+<a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge" alt="Youtube: tarumo"></a>
+<a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch: tarumo_"></a>
+<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram: Corentinlal"></a>
+<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter: tarumo2246"></a>
 
 
 ## 📊 Github Stats
@@ -192,14 +192,15 @@
 	</tr>
 	<tr>
 		<td align="center">
-			<img src="assets/editors/vs-code.svg" alt="Visual Studio Code" width="40em">
-			<img src="assets/editors/jb-pycharm.svg" alt="Jet-Brains Pycharm" width="40em">
-			<img src="assets/editors/sublime-text.svg" alt="Sublime Text" width="40em">
+			<img src="assets/editors/vs-code.svg" alt="VISUAL STUDIO CODE" width="40em">
+			<img src="assets/editors/jb-pycharm.svg" alt="PYCHARM" width="40em">
+			<img src="assets/editors/jb-webstorm.svg" alt="WEBSTORM" width="40em">
+			<img src="assets/editors/sublime-text.svg" alt="SUBLIME TEXT" width="40em">
 		</td>
 		<td align="center">
-			<img src="assets/flags/lang-fr.svg" alt="flag of france" width=40em>
-			<img src="assets/flags/lang-nl.svg" alt="flag of netherlands" width=40em>
-			<img src="assets/flags/lang-en.svg" alt="flag of united kingdom" width=40em>
+			<img src="assets/flags/lang-fr.svg" alt="FRENCH" width=40em>
+			<img src="assets/flags/lang-nl.svg" alt="DUTCH" width=40em>
+			<img src="assets/flags/lang-en.svg" alt="ENGLISH" width=40em>
 		</td>	
 	</tr>
 </table>
