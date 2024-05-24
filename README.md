@@ -234,7 +234,6 @@
 <hr>
 
 <br><br><br><br><br>
-<br><br><br><br><br>
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=Network-Slicing" />
