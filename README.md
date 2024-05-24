@@ -41,8 +41,8 @@
 
 
 ## 📊 Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinL5&hide_border=true&layout=compact&theme=transparent" height="150px">
-<img src="https://github-readme-stats.vercel.app/api?username=CorentinL5&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="150px">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinL5&hide_border=true&layout=compact&theme=transparent&langs_count=8&hide=ShaderLab,Mathematica,HLSL">
+<img src="https://github-readme-stats.vercel.app/api?username=CorentinL5&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
 
 
 ## 🏆 Skills
@@ -232,3 +232,11 @@
 </a>
 
 <hr>
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=Network-Slicing" />
+	<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=WebSite-project-DevWEB-HEHB1Q2" />
+</div>
