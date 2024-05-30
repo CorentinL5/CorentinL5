@@ -24,7 +24,7 @@
 
 <img width="35%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **[WebSite-project-DevWEB-HEHB1Q2](https://github.com/CorentinL5/WebSite-project-DevWEB-HEHB1Q2)**
+- 🔭 I’m currently working on **[Network-Slicing](https://github.com/CorentinL5/Network-Slicing)**
 - 🌱 I’m currently learning **UML, Python, HTML, CSS, PHP, Telecom, Rust,**
 - 📫 How to reach me **[My mail](mailto:corentinlallement5+contact-github@gmail.com)**
 - ⚡ Fun fact **First, solve the problem. Then, write the code**
