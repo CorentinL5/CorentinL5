@@ -24,7 +24,7 @@
 
 <img width="35%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **[Network-Slicing](https://github.com/CorentinL5/Network-Slicing)**
+- 🔭 I’m currently working on **[PyThonBotproject](https://github.com/CorentinL5/PyThonBotproject)**
 - 🌱 I’m currently learning **UML, Python, HTML, CSS, PHP, Telecom, Rust,**
 - 📫 How to reach me **[My mail](mailto:corentinlallement5+contact-github@gmail.com)**
 - ⚡ Fun fact **First, solve the problem. Then, write the code**
@@ -236,6 +236,10 @@
 <br><br><br><br><br>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=Network-Slicing" />
-	<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=WebSite-project-DevWEB-HEHB1Q2" />
+	<a href="https://github.com/CorentinL5/WebSite-project-DevWEB-HEHB1Q2">
+		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=WebSite-project-DevWEB-HEHB1Q2" />
+	</a>
+	<a href="https://github.com/CorentinL5/Network-Slicing">
+		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=Network-Slicing" />
+	</a>
 </div>
