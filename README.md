@@ -239,6 +239,11 @@
 	<a href="https://github.com/CorentinL5/WebSite-project-DevWEB-HEHB1Q2">
 		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=WebSite-project-DevWEB-HEHB1Q2" />
 	</a>
+	<br>
+	<a href="https://github.com/CorentinL5/LorR">
+		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=LorR" />
+	</a>
+	<br>
 	<a href="https://github.com/CorentinL5/Network-Slicing">
 		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=Network-Slicing" />
 	</a>
