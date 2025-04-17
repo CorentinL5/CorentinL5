@@ -6,7 +6,6 @@
 	<img src="https://komarev.com/ghpvc/?username=corentinl5&label=Profile%20views&color=d1af52&style=for-the-badge" alt="corentinl5's profil views" />
 	<img src="https://img.shields.io/badge/male-1DA1F2.svg?style=for-the-badge" alt="male">
 	<img src="https://img.shields.io/badge/single-FF4444.svg?style=for-the-badge" alt="single">
-	<img src="https://img.shields.io/badge/18y-F4A7E9.svg?style=for-the-badge" alt="18 years">
 </p>
 
 <div align="center">
