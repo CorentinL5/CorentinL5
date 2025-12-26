@@ -23,7 +23,7 @@
 
 <img width="35%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **[LorR](https://github.com/CorentinL5/LorR)**
+- 🔭 I’m currently working on **[....](https://github.com/CorentinL5/)**
 - 🌱 I’m currently learning **UML, Python, HTML, CSS, PHP, Telecom, Rust,**
 - 📫 How to reach me **[My mail](mailto:corentinlallement5+contact-github@gmail.com)**
 - ⚡ Fun fact **First, solve the problem. Then, write the code**
@@ -206,12 +206,6 @@
 	</tr>
 </table>
 <hr>
-
-<div>
-	<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ortz4nan36ldsywwgzwnvp6c5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14a" alt="Current spotify listening">
-</div>
-
-<br>
 
 <div>
 	<a href="https://www.buymeacoffee.com/corentinl5">
