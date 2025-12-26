@@ -32,11 +32,9 @@
 ## 🌐 Socials
 
 <a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-C5D1DE.svg?&logo=GitHub&logoColor=black&style=for-the-badge" alt="Github: Corentin L5"></a>
-<a href="https://discord.gg/7GmWpkNuMV"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&logo=Discord&logoColor=white&style=for-the-badge" alt="Discord code: 7GmWpkNuMV"></a>
 <a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge" alt="Youtube: tarumo"></a>
 <a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch: tarumo_"></a>
-<a href="https://www.instagram.com/corentinlal/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram: Corentinlal"></a>
-<a href="https://twitter.com/tarumo2246"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter: tarumo2246"></a>
+<a href="https://www.linkedin.com/in/corentinl5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn : corentinl5"></a>
 
 
 ## 📊 Github Stats
