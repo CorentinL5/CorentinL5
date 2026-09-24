@@ -65,7 +65,6 @@
             <td align="center">
 				<img src="assets/skills/html-5.svg" width="35em" alt="HTML">
 				<img src="assets/skills/css-3.svg" width="35em" alt="CSS">
-				<img src="assets/skills/skript.svg" width="35em" alt="SKRIPT">
 				<img src="assets/skills/markdown.svg" width="35em" alt="MARKDOWN">
 			</td>
             <td align="center">
@@ -83,6 +82,8 @@
 			</td>
             <td align="center">
 				<img src="assets/skills/python.svg" width="35em" alt="PYTHON">
+				<img src="assets/skills/php.svg" width="35em" alt="PHP">
+				<img src="assets/skills/skript.svg" width="35em" alt="SKRIPT">
 			</td>
             <td align="center">
 				<img src="assets/skills/heroku.svg" width="35em" alt="HEROKU">
@@ -99,8 +100,10 @@
 				<img src="assets/stars/starn.svg" width="15em" alt="star no">
 			</td>
             <td align="center">
+				<img src="assets/skills/javascript.svg" width="35em" alt="JAVASCRIPT">
 			</td>
             <td align="center">
+				<img src="assets/skills/aws.svg" width="35em" alt="AWS">
 				<img src="assets/skills/canva.svg" width="35em" alt="CANVA">
 				<img src="assets/skills/cisco.svg" width="35em" alt="CISCO">
 				<img src="assets/skills/raspberry-pi.svg" width="35em" alt="RASPBERRY-PI">
@@ -117,7 +120,6 @@
 				<img src="assets/stars/starn.svg" width="15em" alt="star no">
 			</td>
             <td align="center">
-				<img src="assets/skills/javascript.svg" width="35em" alt="JAVASCRIPT">
 				<img src="assets/skills/rust.svg" width="35em" alt="RUST">
 			</td>
             <td align="center">
@@ -125,6 +127,7 @@
 				<img src="assets/skills/mysql.svg" width="35em" alt="MYSQL">
 				<img src="assets/skills/figma.svg" width="35em" alt="FIGMA">
 				<img src="assets/skills/opensea.svg" width="35em" alt="OPENSEA">
+				<img src="assets/skills/wordpress.svg" width="35em" alt="WORDPRESS">
 			</td>
         </tr>
         <tr>
@@ -136,17 +139,17 @@
 				<img src="assets/stars/starn.svg" width="15em" alt="star no">
 			</td>
             <td align="center">
-				<img src="assets/skills/php.svg" width="35em" alt="PHP">
+				<img src="assets/skills/typescript.svg" width="35em" alt="TYPESCRIPT">
 			</td>
             <td align="center">
 				<img src="assets/skills/terminal.svg" width="35em" alt="CMD TERMINAL">
 				<img src="assets/skills/powershell.svg" width="35em" alt="POWERSHELL">
-				<img src="assets/skills/wordpress.svg" width="35em" alt="WORDPRESS">
 				<img src="assets/skills/adobe.svg" width="35em" alt="ADOBE">
 				<img src="assets/skills/gimp.svg" width="35em" alt="GIMP">
 				<img src="assets/skills/notion.svg" width="35em" alt="NOTION">
 				<img src="assets/skills/tor.svg" width="35em" alt="TOR">
 				<img src="assets/skills/apache.svg" width="35em" alt="APACHE">
+				<img src="assets/skills/nodejs.svg" width="35em" alt="NODE.JS">
 			</td>
         </tr>
         <tr>
@@ -163,15 +166,12 @@
 				<img src="assets/skills/c-plusplus.svg" width="35em" alt="C++">
 				<img src="assets/skills/c-sharp.svg" width="35em" alt="C#">
 				<img src="assets/skills/java.svg" width="35em" alt="JAVA">
-				<img src="assets/skills/typescript.svg" width="35em" alt="TYPESCRIPT">
 				<img src="assets/skills/kotlin.svg" width="35em" alt="KOTLIN">
 			</td>
             <td align="center">
-				<img src="assets/skills/aws.svg" width="35em" alt="AWS">
 				<img src="assets/skills/cloudflare.svg" width="35em" alt="CLOUDFLARE">
 				<img src="assets/skills/bootstrap.svg" width="35em" alt="BOOTSTRAP">
 				<img src="assets/skills/jquery.svg" width="35em" alt="JQUERY">
-				<img src="assets/skills/nodejs.svg" width="35em" alt="NODE.JS">
 				<img src="assets/skills/mariadb.svg" width="35em" alt="MARIADB">
 				<img src="assets/skills/mongodb.svg" width="35em" alt="MONGODB">
 				<img src="assets/skills/storybook.svg" width="35em" alt="STORYBOOK">
