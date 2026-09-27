@@ -4,8 +4,6 @@
 <img align="left" src="assets/flags/belgium.svg" width="35em">
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=corentinl5&label=Profile%20views&color=d1af52&style=for-the-badge" alt="corentinl5's profil views" />
-	<img src="https://img.shields.io/badge/male-1DA1F2.svg?style=for-the-badge" alt="male">
-	<img src="https://img.shields.io/badge/single-FF4444.svg?style=for-the-badge" alt="single">
 </p>
 
 <div align="center">
@@ -33,13 +31,7 @@
 
 <a href="https://github.com/CorentinL5"><img src="https://img.shields.io/badge/GitHub-C5D1DE.svg?&logo=GitHub&logoColor=black&style=for-the-badge" alt="Github: Corentin L5"></a>
 <a href="https://www.youtube.com/c/tarumo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge" alt="Youtube: tarumo"></a>
-<a href="https://www.twitch.tv/tarumo_"><img src="https://img.shields.io/badge/Twitch-6441A5.svg?&logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch: tarumo_"></a>
 <a href="https://www.linkedin.com/in/corentinl5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn : corentinl5"></a>
-
-
-## 📊 Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinL5&hide_border=true&layout=compact&theme=transparent&langs_count=8&hide=ShaderLab,Mathematica,HLSL">
-<img src="https://github-readme-stats.vercel.app/api?username=CorentinL5&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
 
 
 ## 🏆 Skills
@@ -213,7 +205,7 @@
 
 <br><br><br>
 
-<h5>© 2024 Corentin LALLEMENT</h5>
+<h5>© 2024-2026 Corentin LALLEMENT</h5>
 
 </div>
 
@@ -223,19 +215,3 @@
 </a>
 
 <hr>
-
-<br><br><br><br><br>
-
-<div align="center">
-	<a href="https://github.com/CorentinL5/WebSite-project-DevWEB-HEHB1Q2">
-		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=WebSite-project-DevWEB-HEHB1Q2" />
-	</a>
-	<br>
-	<a href="https://github.com/CorentinL5/LorR">
-		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=LorR" />
-	</a>
-	<br>
-	<a href="https://github.com/CorentinL5/Network-Slicing">
-		<img src="https://github-readme-stats.vercel.app/api/pin?username=corentinl5&hide_border=true&theme=transparent&repo=Network-Slicing" />
-	</a>
-</div>
